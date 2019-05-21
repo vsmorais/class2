@@ -82,10 +82,12 @@ main {
 	width: 250px;
 	background-color: #f0aeae;
 
-
+}
 /* adding site styles */
 
-#featured-content {display: flex;flex-direction: row;}
+
+ #featured-contend{
+	display: flex;flex-direction: row;}
 
 .featured-image{
 	background-color: #3c4289;
